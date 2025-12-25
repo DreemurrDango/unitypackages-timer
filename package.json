@@ -2,16 +2,17 @@
   "name": "com.dreemurrstudio.timer",
   "version": "2.0.0",
   "displayName": "计时器",
-  "description": "实现基于或独立于Unity周期的（倒）计时器，可以便捷地开始/结束、重设、暂停/继续，以及对计时器事件的监听接口",
-  "unity": "2021.3",
+  "description": "为 Unity 项目提供两种核心的计时器解决方案：一个用于UI显示 的 CountDown 组件，以及一个更灵活的后台 Timer 类，以满足多种计时需求。",
   "author": {
     "name": "DreemurrStudio",
     "email": "3011090456@qq.com",
-    "url": "https://www.dreemurrstudio.com"
+    "url": "https://gitee.com/RoastDango"
   },
   "keywords": [
+    "Timer",
     "CountDown",
     "Time",
-    "Clock"
+    "Clock",
+    "Stopwatch"
   ]
 }
