@@ -1,0 +1,17 @@
+﻿{
+  "name": "com.dreemurrstudio.timer",
+  "version": "2.0.0",
+  "displayName": "计时器",
+  "description": "实现基于或独立于Unity周期的（倒）计时器，可以便捷地开始/结束、重设、暂停/继续，以及对计时器事件的监听接口",
+  "unity": "2021.3",
+  "author": {
+    "name": "DreemurrStudio",
+    "email": "3011090456@qq.com",
+    "url": "https://www.dreemurrstudio.com"
+  },
+  "keywords": [
+    "CountDown",
+    "Time",
+    "Clock"
+  ]
+}
