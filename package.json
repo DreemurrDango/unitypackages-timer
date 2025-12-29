@@ -1,6 +1,6 @@
 ﻿{
   "name": "com.dreemurrstudio.timer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "displayName": "计时器",
   "description": "为 Unity 项目提供两种核心的计时器解决方案：一个用于UI显示 的 CountDown 组件，以及一个更灵活的后台 Timer 类，以满足多种计时需求。",
   "author": {

@@ -3,6 +3,10 @@
 > 此文件记录了该软件包所有重要的变更
 > 文件格式基于 [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) 更新日志规范，且此项目版本号遵循 [语义化版本](http://semver.org/spec/v2.0.0.html) 规范
 
+## [2.0.1] - 2025-12-29
+### 更改
+- 修复了因未指定对Unity.InputSystem程序集的引用导致的，在启用了InputSystem的项目中编译失败的BUG
+
 ## [2.0.0] - 2025-07-14
 ### 新增
 - **`CountDown`**: 添加了 `resetOnAnyInput` 选项，允许在接收到任意输入时重置倒计时
